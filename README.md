@@ -1,6 +1,6 @@
 # GARANTI_BBVA_Analysis
 In this study, i analyzed Garanti BBVA stock which is a bank stock in Borsa Istanbul (BIST), Turkey. This analysis covers from 02/2020 to 06/2022 for 32 months. 
-I made this analysis with 3 different data type which is;
+I made this analysis with 3 different data type which are;
 1. GARANTI BBVA Stock Values: from Yahoo Finance
 2. GARANTI BBVA Statment of Financel Position: from KAP (Public Disclosure Platform: https://www.kap.org.tr/en/)
 3. XBANK Stock Values: from Yahoo Finance 
