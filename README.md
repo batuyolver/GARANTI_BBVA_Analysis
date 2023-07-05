@@ -12,3 +12,6 @@ With this study: I aimed to understand better to statement of stock and to visua
 
 
 GARANTI BBVA is a Turkish financial services company based in Turkey. 86% of Garanti's stakes are owned by the Spanish bank Banco Bilbao Vizcaya Argentaria (BBVA). Today revenue of GARANTI is 42.3 billion Turkish Liras (TL) and has 18.636 total number of employees. Finally, GARANTI BBVA is a member of BIST30 list which mean that the most important 30 stocks in BIST market.
+
+
+On the other hand, the employee data provided by Garanti was analyzed to predict what will happen to employees after 2019 in terms of Garanti datathon competition. In terms of this competition many different machine learning algorithms was used such as linear regression, decision tree, random forest, gaussianNB and KNeighborsClassifier. 
